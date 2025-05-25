@@ -2,7 +2,7 @@
 - 👀 I’m interested in cybersecurity, ethical hacking, and open-source tooling  
 - 🌱 I’m currently learning advanced penetration testing, malware analysis, and reverse engineering  
 - 💞️ I’m looking to collaborate on security research, CTF challenges, and red team tooling  
-- 📫 How to reach me: s3cr1z[at]root.com or Twitter @s3cr1z  
+- 📫 How to reach me: r1z[at]dev.cc or Twitter @0x7km  
 - 😄 Pronouns: he/him  
 - ⚡ Fun fact: I once hacked my own smart home just to test its defenses 🏠💻  
 
