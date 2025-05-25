@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on security research, CTF challenges, and red team tooling  
 - 📫 How to reach me: r1z[at]dev.cc or Twitter @0x7km  
 - 😄 Pronouns: he/him  
-- ⚡ Fun fact: I once hacked my own smart home just to test its defenses 🏠💻  
 
 <!---
 s3cr1z/s3cr1z is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
